@@ -1,2 +1,2 @@
 # simply-learning-sorting-algorithms-java
-Simply learning sorting algorithms - java v0.1
+Simply learning sorting algorithms - java v0.2
